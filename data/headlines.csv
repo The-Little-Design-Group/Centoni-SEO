@@ -1,0 +1,61 @@
+Campaign,Ad Group,Headline,Character Count,Intent,Notes
+Authority / Brand Reach,Whole Home,San Francisco Home Remodel Experts,30,Brand,Core brand headline
+Authority / Brand Reach,Whole Home,Premium Design-Build SF,22,Brand,Design-build focus
+Authority / Brand Reach,Whole Home,Whole-Home Renovation SF Bay Area,30,Service,Whole home specific
+Authority / Brand Reach,Whole Home,End-to-End Home Renovation SF,26,Value,Process emphasis
+Authority / Brand Reach,Whole Home,Transform Your SF Home Today,25,CTA,Action oriented
+Authority / Brand Reach,Kitchen,Luxury Kitchen Remodels SF,23,Service,Kitchen specific
+Authority / Brand Reach,Kitchen,Kitchen Remodel Experts SF,23,Service,Expert positioning
+Authority / Brand Reach,Kitchen,Premium Kitchen Renovation SF,26,Service,Premium focus
+Authority / Brand Reach,Kitchen,San Francisco Kitchen Contractor,28,Service,Contractor focus
+Authority / Brand Reach,Bathroom,Luxury Bath Remodels SF,20,Service,Bathroom specific
+Authority / Brand Reach,Bathroom,Bathroom Remodel Experts SF,25,Service,Expert positioning
+Authority / Brand Reach,Bathroom,High-End Bath Renovation SF,24,Service,Premium focus
+Authority / Brand Reach,Seismic,Seismic Upgrade Experts SF,23,Service,Seismic specific
+Authority / Brand Reach,Seismic,Seismic Upgrade and Home Remodel SF,30,Service,Combined service
+Authority / Brand Reach,Seismic,Earthquake Retrofit SF Homes,24,Service,Problem focus
+Authority / Brand Reach,Premium,Luxury Home Renovation Experts SF,29,Brand,Premium positioning
+Authority / Brand Reach,Premium,High-End Residential Renovations SF,30,Brand,High-end focus
+Authority / Brand Reach,Premium,Premium Residential Renovations SF,30,Brand,Premium focus
+Authority / Brand Reach,Authority,Design-Build Contractor SF,23,Brand,Core positioning
+Authority / Brand Reach,Authority,Licensed General Contractor SF,27,Credential,License focus
+Authority / Brand Reach,Authority,Design Plus Build Firm SF,22,Brand,D and B focus
+Authority / Brand Reach,Authority,From Facade to Flooring SF Homes,28,USP,Tagline headline
+Authority / Brand Reach,Authority,Attention to Detail Home Remodel,29,USP,USP headline
+Authority / Brand Reach,Authority,Top Rated Design-Build Contractor,29,Authority,Authority claim
+Authority / Brand Reach,Authority,Design-Build Team for Luxury SF,28,Brand,Premium focus
+Historic Homes,Historic General,Restore Your Historic Home in SF,28,Service,Historic focus
+Historic Homes,Historic General,Historic Home Restoration SF,25,Service,Core historic term
+Historic Homes,Historic General,Landmark Home Renovation Experts,28,Service,Landmark focus
+Historic Homes,Historic General,Historic Property Restoration SF,28,Service,Property term
+Historic Homes,Historic General,Preserve Architecture Modernize SF,30,Value,Value proposition
+Historic Homes,Historic General,Historic Home Specialists SF,24,Authority,Specialist claim
+Historic Homes,Victorian,Restore Your Victorian Home in SF,29,Service,Victorian specific
+Historic Homes,Victorian,Victorian Home Renovation SF,24,Service,Core Victorian
+Historic Homes,Victorian,Victorian Home Restoration SF,25,Service,Restoration focus
+Historic Homes,Victorian,Arts Crafts Victorian Homes SF,25,Service,Style combination
+Historic Homes,Victorian,SF Victorian Contractor Licensed,27,Credential,License focus
+Historic Homes,Mid-Century,Mid-Century Renovation SF,21,Service,MCM specific
+Historic Homes,Mid-Century,Mid-Century Modern Home Remodel,27,Service,Full MCM term
+Historic Homes,Mid-Century,Modernize Your Mid-Century Home,27,CTA,Action oriented
+Historic Homes,Arts Crafts,Arts and Crafts Restoration SF,26,Service,A and C specific
+Historic Homes,Arts Crafts,Craftsman Home Renovation SF,25,Service,Craftsman term
+Historic Homes,Arts Crafts,Arts Crafts Home Specialists SF,27,Authority,Specialist claim
+Historic Homes,Condos Flats,Flat Renovation Specialist SF,25,Service,Flat specific
+Historic Homes,Condos Flats,Condo Renovation San Francisco,27,Service,Condo specific
+Historic Homes,Condos Flats,SF Flat and Condo Remodels,23,Service,Combined term
+Investor Value-Add,Investment,Maximize Your Property Value SF,27,Value,ROI focus
+Investor Value-Add,Investment,Investor Home Renovation SF,24,Service,Investor specific
+Investor Value-Add,Investment,Property Renovation for Resale SF,29,Service,Resale focus
+Investor Value-Add,Investment,Value-Add Property Remodel SF,26,Service,Value-add term
+Investor Value-Add,Investment,Investment Property Remodel SF,27,Service,Investment focus
+Investor Value-Add,Flip Ready,Flip-Ready Home Remodel SF,23,Service,Flip specific
+Investor Value-Add,Flip Ready,Upgrade Your Property to Sell SF,28,CTA,Action oriented
+Investor Value-Add,Flip Ready,Ready-to-Sell Home Remodel SF,26,Service,Resale ready
+Investor Value-Add,Flip Ready,High ROI Home Renovation SF,24,Value,ROI focus
+Investor Value-Add,Flip Ready,Investor-Focused Remodeling SF,27,Service,Investor focus
+Partnerships,Contractor,Partner With Licensed Contractor,28,B2B,Partnership focus
+Partnerships,Contractor,Design-Build Firm for Partners,27,B2B,Partner term
+Partnerships,Contractor,Looking for Remodel Partner SF,26,B2B,Question format
+Partnerships,Contractor,Historic Renovation Partner SF,26,B2B,Niche B2B
+Partnerships,Contractor,Your Turnkey Remodel Partner SF,27,B2B,Turnkey focus

@@ -1,0 +1,129 @@
+Campaign,Ad Group,Keyword,Match Type,Geo Target,Intent,Priority,Landing Page,Notes
+Authority / Brand Reach,Whole Home Remodel,whole home remodel san francisco,Exact,San Francisco,Transactional,High,/services/whole-home,Core service term
+Authority / Brand Reach,Whole Home Remodel,whole home remodel san francisco,Phrase,San Francisco,Transactional,High,/services/whole-home,Core service term
+Authority / Brand Reach,Whole Home Remodel,whole home remodel san francisco,Broad Modified,San Francisco,Transactional,High,/services/whole-home,Core service term
+Authority / Brand Reach,Whole Home Remodel,complete home renovation san francisco,Exact,San Francisco,Transactional,High,/services/whole-home,Alternative phrasing
+Authority / Brand Reach,Whole Home Remodel,complete home renovation san francisco,Phrase,San Francisco,Transactional,High,/services/whole-home,Alternative phrasing
+Authority / Brand Reach,Whole Home Remodel,full house remodel sf,Exact,San Francisco,Transactional,Medium,/services/whole-home,SF abbreviation variant
+Authority / Brand Reach,Whole Home Remodel,full house remodel sf,Phrase,San Francisco,Transactional,Medium,/services/whole-home,SF abbreviation variant
+Authority / Brand Reach,Whole Home Remodel,end to end home renovation san francisco,Exact,San Francisco,Transactional,Medium,/services/whole-home,Value proposition alignment
+Authority / Brand Reach,Kitchen Remodel,kitchen remodel san francisco,Exact,San Francisco,Transactional,High,/services/kitchen,Core service term
+Authority / Brand Reach,Kitchen Remodel,kitchen remodel san francisco,Phrase,San Francisco,Transactional,High,/services/kitchen,Core service term
+Authority / Brand Reach,Kitchen Remodel,kitchen remodel san francisco,Broad Modified,San Francisco,Transactional,High,/services/kitchen,Core service term
+Authority / Brand Reach,Kitchen Remodel,kitchen renovation sf,Exact,San Francisco,Transactional,High,/services/kitchen,SF abbreviation variant
+Authority / Brand Reach,Kitchen Remodel,kitchen renovation sf,Phrase,San Francisco,Transactional,High,/services/kitchen,SF abbreviation variant
+Authority / Brand Reach,Kitchen Remodel,luxury kitchen remodel san francisco,Exact,San Francisco,Transactional,High,/services/kitchen,Premium modifier
+Authority / Brand Reach,Kitchen Remodel,luxury kitchen remodel san francisco,Phrase,San Francisco,Transactional,High,/services/kitchen,Premium modifier
+Authority / Brand Reach,Kitchen Remodel,kitchen contractor san francisco,Exact,San Francisco,Transactional,Medium,/services/kitchen,Contractor focus
+Authority / Brand Reach,Kitchen Remodel,kitchen contractor san francisco,Phrase,San Francisco,Transactional,Medium,/services/kitchen,Contractor focus
+Authority / Brand Reach,Bathroom Remodel,bathroom remodel san francisco,Exact,San Francisco,Transactional,High,/services/bathroom,Core service term
+Authority / Brand Reach,Bathroom Remodel,bathroom remodel san francisco,Phrase,San Francisco,Transactional,High,/services/bathroom,Core service term
+Authority / Brand Reach,Bathroom Remodel,bathroom remodel san francisco,Broad Modified,San Francisco,Transactional,High,/services/bathroom,Core service term
+Authority / Brand Reach,Bathroom Remodel,bathroom renovation sf,Exact,San Francisco,Transactional,High,/services/bathroom,SF abbreviation variant
+Authority / Brand Reach,Bathroom Remodel,bathroom renovation sf,Phrase,San Francisco,Transactional,High,/services/bathroom,SF abbreviation variant
+Authority / Brand Reach,Bathroom Remodel,luxury bathroom remodel san francisco,Exact,San Francisco,Transactional,High,/services/bathroom,Premium modifier
+Authority / Brand Reach,Bathroom Remodel,luxury bathroom remodel san francisco,Phrase,San Francisco,Transactional,High,/services/bathroom,Premium modifier
+Authority / Brand Reach,Bathroom Remodel,high end bath renovation sf,Exact,San Francisco,Transactional,Medium,/services/bathroom,Premium modifier variant
+Authority / Brand Reach,Seismic Upgrades,seismic upgrade san francisco,Exact,San Francisco,Transactional,High,/services/seismic,Core service term
+Authority / Brand Reach,Seismic Upgrades,seismic upgrade san francisco,Phrase,San Francisco,Transactional,High,/services/seismic,Core service term
+Authority / Brand Reach,Seismic Upgrades,seismic upgrade san francisco,Broad Modified,San Francisco,Transactional,High,/services/seismic,Core service term
+Authority / Brand Reach,Seismic Upgrades,seismic strengthening san francisco,Exact,San Francisco,Transactional,High,/services/seismic,Alternative phrasing
+Authority / Brand Reach,Seismic Upgrades,seismic strengthening san francisco,Phrase,San Francisco,Transactional,High,/services/seismic,Alternative phrasing
+Authority / Brand Reach,Seismic Upgrades,earthquake retrofit san francisco,Exact,San Francisco,Transactional,Medium,/services/seismic,Problem-focused term
+Authority / Brand Reach,Seismic Upgrades,earthquake retrofit san francisco,Phrase,San Francisco,Transactional,Medium,/services/seismic,Problem-focused term
+Authority / Brand Reach,Seismic Upgrades,seismic upgrade home san francisco,Exact,San Francisco,Transactional,Medium,/services/seismic,Long tail variant
+Authority / Brand Reach,Premium Renovations,luxury home renovation san francisco,Exact,San Francisco,Transactional,High,/portfolio,Core premium term
+Authority / Brand Reach,Premium Renovations,luxury home renovation san francisco,Phrase,San Francisco,Transactional,High,/portfolio,Core premium term
+Authority / Brand Reach,Premium Renovations,luxury home renovation san francisco,Broad Modified,San Francisco,Transactional,High,/portfolio,Core premium term
+Authority / Brand Reach,Premium Renovations,high quality residential renovation sf,Exact,San Francisco,Transactional,High,/portfolio,Value alignment term
+Authority / Brand Reach,Premium Renovations,high quality residential renovation sf,Phrase,San Francisco,Transactional,High,/portfolio,Value alignment term
+Authority / Brand Reach,Premium Renovations,premium design build firm sf,Exact,San Francisco,Transactional,Medium,/portfolio,Brand positioning
+Authority / Brand Reach,Premium Renovations,premium design build firm sf,Phrase,San Francisco,Transactional,Medium,/portfolio,Brand positioning
+Authority / Brand Reach,Premium Renovations,attention to detail home remodel sf,Exact,San Francisco,Transactional,Medium,/portfolio,USP keyword
+Authority / Brand Reach,General Contractor,design build contractor san francisco,Exact,San Francisco,Transactional,High,/,Core positioning term
+Authority / Brand Reach,General Contractor,design build contractor san francisco,Phrase,San Francisco,Transactional,High,/,Core positioning term
+Authority / Brand Reach,General Contractor,design build contractor san francisco,Broad Modified,San Francisco,Transactional,High,/,Core positioning term
+Authority / Brand Reach,General Contractor,licensed general contractor san francisco,Exact,San Francisco,Transactional,High,/,Credential focus
+Authority / Brand Reach,General Contractor,licensed general contractor san francisco,Phrase,San Francisco,Transactional,High,/,Credential focus
+Authority / Brand Reach,General Contractor,residential contractor san francisco,Exact,San Francisco,Transactional,Medium,/,Broad service term
+Authority / Brand Reach,General Contractor,residential contractor san francisco,Phrase,San Francisco,Transactional,Medium,/,Broad service term
+Authority / Brand Reach,General Contractor,san francisco general contractor licensed ca,Exact,San Francisco,Transactional,Medium,/,License focus variant
+Authority / Brand Reach,General Contractor,full service renovation firm san francisco,Exact,San Francisco,Transactional,Medium,/,Value proposition
+Historic Homes,Historic General,historic home renovation san francisco,Exact,San Francisco,Transactional,High,/portfolio/historic,Core niche term
+Historic Homes,Historic General,historic home renovation san francisco,Phrase,San Francisco,Transactional,High,/portfolio/historic,Core niche term
+Historic Homes,Historic General,historic home renovation san francisco,Broad Modified,San Francisco,Transactional,High,/portfolio/historic,Core niche term
+Historic Homes,Historic General,landmark home restoration san francisco,Exact,San Francisco,Transactional,High,/portfolio/historic,Heritage focus
+Historic Homes,Historic General,landmark home restoration san francisco,Phrase,San Francisco,Transactional,High,/portfolio/historic,Heritage focus
+Historic Homes,Historic General,historic property renovation sf,Exact,San Francisco,Transactional,Medium,/portfolio/historic,SF abbreviation variant
+Historic Homes,Historic General,historic property renovation sf,Phrase,San Francisco,Transactional,Medium,/portfolio/historic,SF abbreviation variant
+Historic Homes,Historic General,old home remodel san francisco,Exact,San Francisco,Transactional,Medium,/portfolio/historic,Colloquial variant
+Historic Homes,Historic General,old home remodel san francisco,Phrase,San Francisco,Transactional,Medium,/portfolio/historic,Colloquial variant
+Historic Homes,Historic General,turn of the century home renovation san francisco,Exact,San Francisco,Transactional,Low,/portfolio/historic,Long tail niche
+Historic Homes,Historic General,modernizing historic san francisco home,Exact,San Francisco,Transactional,Medium,/portfolio/historic,Solution focus
+Historic Homes,Historic General,home restoration san francisco,Exact,San Francisco,Transactional,Medium,/portfolio/historic,Broad historic term
+Historic Homes,Historic General,heritage property remodel san francisco,Exact,San Francisco,Transactional,Low,/portfolio/historic,Heritage term
+Historic Homes,Victorian Homes,victorian home renovation san francisco,Exact,San Francisco,Transactional,High,/portfolio/victorian,Core Victorian term
+Historic Homes,Victorian Homes,victorian home renovation san francisco,Phrase,San Francisco,Transactional,High,/portfolio/victorian,Core Victorian term
+Historic Homes,Victorian Homes,victorian home renovation san francisco,Broad Modified,San Francisco,Transactional,High,/portfolio/victorian,Core Victorian term
+Historic Homes,Victorian Homes,victorian home restoration san francisco,Exact,San Francisco,Transactional,High,/portfolio/victorian,Restoration focus
+Historic Homes,Victorian Homes,victorian home restoration san francisco,Phrase,San Francisco,Transactional,High,/portfolio/victorian,Restoration focus
+Historic Homes,Victorian Homes,victorian house remodel sf,Exact,San Francisco,Transactional,Medium,/portfolio/victorian,SF abbreviation variant
+Historic Homes,Victorian Homes,victorian house remodel sf,Phrase,San Francisco,Transactional,Medium,/portfolio/victorian,SF abbreviation variant
+Historic Homes,Victorian Homes,restore victorian home sf,Exact,San Francisco,Transactional,Medium,/portfolio/victorian,Action verb variant
+Historic Homes,Victorian Homes,san francisco victorian contractor,Exact,San Francisco,Transactional,Medium,/portfolio/victorian,Contractor focus
+Historic Homes,Mid-Century Modern,mid century modern home renovation san francisco,Exact,San Francisco,Transactional,High,/portfolio/mid-century,Core MCM term
+Historic Homes,Mid-Century Modern,mid century modern home renovation san francisco,Phrase,San Francisco,Transactional,High,/portfolio/mid-century,Core MCM term
+Historic Homes,Mid-Century Modern,mid century modern home renovation san francisco,Broad Modified,San Francisco,Transactional,High,/portfolio/mid-century,Core MCM term
+Historic Homes,Mid-Century Modern,mid century home remodel sf,Exact,San Francisco,Transactional,Medium,/portfolio/mid-century,SF abbreviation variant
+Historic Homes,Mid-Century Modern,mid century home remodel sf,Phrase,San Francisco,Transactional,Medium,/portfolio/mid-century,SF abbreviation variant
+Historic Homes,Mid-Century Modern,mid century modern update san francisco,Exact,San Francisco,Transactional,Medium,/portfolio/mid-century,Update focus
+Historic Homes,Arts and Crafts,arts and crafts home renovation san francisco,Exact,San Francisco,Transactional,High,/portfolio/arts-crafts,Core A and C term
+Historic Homes,Arts and Crafts,arts and crafts home renovation san francisco,Phrase,San Francisco,Transactional,High,/portfolio/arts-crafts,Core A and C term
+Historic Homes,Arts and Crafts,arts crafts home restoration sf,Exact,San Francisco,Transactional,Medium,/portfolio/arts-crafts,Restoration focus
+Historic Homes,Arts and Crafts,craftsman home renovation san francisco,Exact,San Francisco,Transactional,Medium,/portfolio/arts-crafts,Craftsman style variant
+Historic Homes,Arts and Crafts,craftsman home renovation san francisco,Phrase,San Francisco,Transactional,Medium,/portfolio/arts-crafts,Craftsman style variant
+Historic Homes,Arts and Crafts,craftsman house remodel sf,Exact,San Francisco,Transactional,Medium,/portfolio/arts-crafts,SF abbreviation variant
+Historic Homes,Condos Flats,flat renovation san francisco,Exact,San Francisco,Transactional,High,/services/condo,Core flat term
+Historic Homes,Condos Flats,flat renovation san francisco,Phrase,San Francisco,Transactional,High,/services/condo,Core flat term
+Historic Homes,Condos Flats,flat renovation san francisco,Broad Modified,San Francisco,Transactional,High,/services/condo,Core flat term
+Historic Homes,Condos Flats,condo renovation san francisco,Exact,San Francisco,Transactional,High,/services/condo,Core condo term
+Historic Homes,Condos Flats,condo renovation san francisco,Phrase,San Francisco,Transactional,High,/services/condo,Core condo term
+Historic Homes,Condos Flats,condo remodel sf,Exact,San Francisco,Transactional,Medium,/services/condo,SF abbreviation variant
+Historic Homes,Condos Flats,condo remodel sf,Phrase,San Francisco,Transactional,Medium,/services/condo,SF abbreviation variant
+Historic Homes,Condos Flats,condominium renovation san francisco,Exact,San Francisco,Transactional,Medium,/services/condo,Formal variant
+Historic Homes,Condos Flats,condo flat renovation san francisco,Exact,San Francisco,Transactional,Medium,/services/condo,Combined term
+Investor Value-Add,Investment Properties,property renovation for sale san francisco,Exact,San Francisco,Transactional,High,/blog/investment,Core investor term
+Investor Value-Add,Investment Properties,property renovation for sale san francisco,Phrase,San Francisco,Transactional,High,/blog/investment,Core investor term
+Investor Value-Add,Investment Properties,investment home remodel san francisco,Exact,San Francisco,Transactional,High,/blog/investment,Investment focus
+Investor Value-Add,Investment Properties,investment home remodel san francisco,Phrase,San Francisco,Transactional,High,/blog/investment,Investment focus
+Investor Value-Add,Investment Properties,investor home remodel sf,Exact,San Francisco,Transactional,Medium,/blog/investment,SF abbreviation variant
+Investor Value-Add,Investment Properties,investor home improvement san francisco,Exact,San Francisco,Transactional,Medium,/blog/investment,Improvement variant
+Investor Value-Add,Investment Properties,value add renovation san francisco homes,Exact,San Francisco,Transactional,Medium,/blog/investment,Value-add focus
+Investor Value-Add,Investment Properties,property value maximization remodeling sf,Exact,San Francisco,Transactional,Low,/blog/investment,ROI focus
+Investor Value-Add,Investment Properties,real estate investor remodeler san francisco,Exact,San Francisco,Transactional,Medium,/blog/investment,RE investor focus
+Investor Value-Add,Flip Ready,flip ready home renovation sf,Exact,San Francisco,Transactional,High,/blog/investment,Core flip term
+Investor Value-Add,Flip Ready,flip ready home renovation sf,Phrase,San Francisco,Transactional,High,/blog/investment,Core flip term
+Investor Value-Add,Flip Ready,upgrade remodel for resale san francisco,Exact,San Francisco,Transactional,Medium,/blog/investment,Resale focus
+Investor Value-Add,Flip Ready,upgrade remodel for resale san francisco,Phrase,San Francisco,Transactional,Medium,/blog/investment,Resale focus
+Investor Value-Add,Flip Ready,remodel for resale san francisco,Exact,San Francisco,Transactional,Medium,/blog/investment,Simplified resale term
+Investor Value-Add,Flip Ready,home flip contractor sf,Exact,San Francisco,Transactional,Medium,/blog/investment,Contractor focus
+Investor Value-Add,Flip Ready,high end property upgrade sf investors,Exact,San Francisco,Transactional,Medium,/blog/investment,Premium investor focus
+Partnerships,Contractor Partnerships,general contractor partner san francisco,Exact,San Francisco,Commercial,Medium,/contact,B2B term
+Partnerships,Contractor Partnerships,general contractor partner san francisco,Phrase,San Francisco,Commercial,Medium,/contact,B2B term
+Partnerships,Contractor Partnerships,design build subcontractor san francisco historic homes,Exact,San Francisco,Commercial,Medium,/contact,Niche B2B term
+Partnerships,Contractor Partnerships,home remodel partner contractor sf,Exact,San Francisco,Commercial,Medium,/contact,Partnership focus
+Partnerships,Contractor Partnerships,construction partner for renovation sf,Exact,San Francisco,Commercial,Low,/contact,Construction partner
+Partnerships,Contractor Partnerships,licensed contractor san francisco partner,Exact,San Francisco,Commercial,Medium,/contact,Licensed partner
+Partnerships,Contractor Partnerships,turnkey renovation partner sf,Exact,San Francisco,Commercial,Medium,/contact,Turnkey focus
+Partnerships,Contractor Partnerships,remodeling subcontractor historic homes sf,Exact,San Francisco,Commercial,Low,/contact,Historic niche B2B
+Authority / Brand Reach,Authority Keywords,best design build firm san francisco,Exact,San Francisco,Commercial Investigation,High,/,Authority term
+Authority / Brand Reach,Authority Keywords,best design build firm san francisco,Phrase,San Francisco,Commercial Investigation,High,/,Authority term
+Authority / Brand Reach,Authority Keywords,top home renovation contractor bay area,Exact,San Francisco,Commercial Investigation,High,/,Top ranking term
+Authority / Brand Reach,Authority Keywords,luxury home remodel experts san francisco,Exact,San Francisco,Commercial Investigation,Medium,/,Expert positioning
+Authority / Brand Reach,Authority Keywords,historic home restoration specialists bay area,Exact,San Francisco,Commercial Investigation,Medium,/portfolio/historic,Specialist term
+Authority / Brand Reach,Authority Keywords,award winning remodeling firm san francisco,Exact,San Francisco,Commercial Investigation,Low,/,Award focus
+Authority / Brand Reach,Authority Keywords,full service design build contractor sf,Exact,San Francisco,Transactional,Medium,/,Full service term
+Authority / Brand Reach,Authority Keywords,premium residential renovation bay area,Exact,San Francisco,Commercial Investigation,Medium,/,Premium Bay Area
+Authority / Brand Reach,Authority Keywords,licensed design build contractor san francisco,Exact,San Francisco,Transactional,Medium,/,License focus
+Authority / Brand Reach,Authority Keywords,high end home renovation bay area,Exact,San Francisco,Commercial Investigation,Medium,/,High end Bay Area
+Authority / Brand Reach,Authority Keywords,trusted home remodeler san francisco historic homes,Exact,San Francisco,Commercial Investigation,Medium,/portfolio/historic,Trust and niche
