@@ -1,12 +1,18 @@
 # Centoni SEO Environment Audit
 
 **Project:** Centoni-SEO
+**Consulting Firm:** The Little Design Group
+**Agency Client:** Websight Design Inc.
 **End Client:** Centoni Design-Build (San Francisco)
-**Partner Agency:** Websight Design
-**Executed By:** The Little Design Group
 **Audit Date:** 2025-12-05
 **Conducted By:** Dan Ceresia, CIO/CTO
 **Audit Type:** Comprehensive Environment Review
+
+---
+
+## Engagement Context
+
+The Little Design Group is a specialized consulting firm providing executive-level strategic services to top-tier agencies across the United States. This engagement is executed on behalf of agency client Websight Design Inc. for their end client Centoni Design-Build.
 
 ---
 
@@ -296,5 +302,5 @@ Centoni-SEO/
 **Next Action:** Proceed with data organization and structured file creation.
 
 **Document Classification:** Internal - The Little Design Group
-**Partner Agency:** Websight Design
+**Agency Client:** Websight Design Inc.
 **End Client:** Centoni Design-Build

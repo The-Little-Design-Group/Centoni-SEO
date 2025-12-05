@@ -1,9 +1,9 @@
 # Keyword Strategy Educational Guide
 
 **Document Purpose:** Educational reference for team members new to search engine marketing
+**Consulting Firm:** The Little Design Group
+**Agency Client:** Websight Design Inc.
 **End Client:** Centoni Design-Build
-**Partner Agency:** Websight Design
-**Executed By:** The Little Design Group
 **Author:** Dan Ceresia, CIO/CTO
 **Last Updated:** 2025-12-05
 
@@ -404,5 +404,5 @@ For deeper understanding, team members should explore:
 ---
 
 **Document Classification:** Internal - The Little Design Group
-**Partner Agency:** Websight Design
+**Agency Client:** Websight Design Inc.
 **End Client:** Centoni Design-Build
