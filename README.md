@@ -1,7 +1,9 @@
 # Centoni SEO/SEM Campaign Development
 
-**Client:** Centoni Design-Build
-**Project Lead:** Dan Ceresia, CIO/CTO - The Little Design Group
+**End Client:** Centoni Design-Build
+**Partner Agency:** Websight Design
+**Executed By:** The Little Design Group
+**Project Lead:** Dan Ceresia, CIO/CTO
 **Project Type:** Search Engine Marketing Campaign Development
 **Last Updated:** 2025-12-05
 
@@ -140,6 +142,9 @@ Remove: [description of deleted content]
 **Organization:** The Little Design Group
 **Role:** Executive Developer, CIO/CTO
 
+**Partner Agency:** Websight Design
+**End Client:** Centoni Design-Build
+
 ---
 
 ## Document History
@@ -150,4 +155,4 @@ Remove: [description of deleted content]
 
 ---
 
-**Confidential:** This repository contains proprietary client strategy. Handle according to The Little Design Group confidentiality standards.
+**Confidential:** This repository contains proprietary client strategy developed on behalf of Websight Design for their client Centoni. Handle according to The Little Design Group confidentiality standards.
