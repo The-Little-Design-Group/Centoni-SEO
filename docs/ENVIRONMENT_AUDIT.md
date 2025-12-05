@@ -293,5 +293,5 @@ Centoni-SEO/
 
 **Next Action:** Proceed with data organization and structured file creation.
 
-**Document Classification:** Internal - The Little Design Group
+**Document Classification:** Internal - For Websight Design
 **Client:** Centoni Design-Build
