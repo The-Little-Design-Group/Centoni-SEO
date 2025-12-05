@@ -1,0 +1,91 @@
+Keyword,Category,Rationale,Apply To
+cheap,Budget Seekers,Filters users seeking low-cost options incompatible with premium positioning,All Campaigns
+affordable,Budget Seekers,Filters budget-conscious users unlikely to convert,All Campaigns
+budget,Budget Seekers,Budget focus indicates price sensitivity,All Campaigns
+discount,Budget Seekers,Discount seekers not aligned with premium service,All Campaigns
+low cost,Budget Seekers,Low cost intent incompatible with luxury positioning,All Campaigns
+inexpensive,Budget Seekers,Price-sensitive searchers,All Campaigns
+free,Budget Seekers,Free service seekers not qualified leads,All Campaigns
+bargain,Budget Seekers,Bargain hunters not target audience,All Campaigns
+economical,Budget Seekers,Price-focused modifier,All Campaigns
+diy,DIY Seekers,Do-it-yourself users not hiring contractors,All Campaigns
+do it yourself,DIY Seekers,Self-help searches,All Campaigns
+how to,DIY Seekers,Educational intent not service intent,All Campaigns
+tutorial,DIY Seekers,Learning focus not hiring focus,All Campaigns
+guide,DIY Seekers,Information seeking not service seeking,All Campaigns
+tips,DIY Seekers,Advice seeking not contractor hiring,All Campaigns
+ideas,DIY Seekers,Inspiration phase not action phase,All Campaigns
+pinterest,DIY Seekers,Social platform browsing,All Campaigns
+houzz ideas,DIY Seekers,Idea browsing not contractor search,All Campaigns
+step by step,DIY Seekers,DIY instruction seeking,All Campaigns
+instructions,DIY Seekers,DIY guidance seeking,All Campaigns
+plans,DIY Seekers,DIY planning not contractor hiring,All Campaigns
+jobs,Job Seekers,Employment searches not service searches,All Campaigns
+careers,Job Seekers,Career interest not client interest,All Campaigns
+hiring,Job Seekers,Employment focus,All Campaigns
+employment,Job Seekers,Job market searches,All Campaigns
+salary,Job Seekers,Compensation research,All Campaigns
+internship,Job Seekers,Internship seekers,All Campaigns
+apprentice,Job Seekers,Training position searches,All Campaigns
+work for,Job Seekers,Employment seeking,All Campaigns
+job openings,Job Seekers,Employment opportunities,All Campaigns
+resume,Job Seekers,Job application focus,All Campaigns
+license lookup,Education and Licensing,License verification not service,All Campaigns
+contractor license,Education and Licensing,License information seeking,All Campaigns
+classes,Education and Licensing,Education seeking,All Campaigns
+courses,Education and Licensing,Training courses,All Campaigns
+certification,Education and Licensing,Certification program searches,All Campaigns
+training,Education and Licensing,Training program searches,All Campaigns
+school,Education and Licensing,Educational institution searches,All Campaigns
+degree,Education and Licensing,Academic degree searches,All Campaigns
+learn,Education and Licensing,Learning intent not service intent,All Campaigns
+study,Education and Licensing,Academic focus,All Campaigns
+supplies,Supplies and Tools,Material purchasing not service,All Campaigns
+tools,Supplies and Tools,Tool purchasing,All Campaigns
+materials,Supplies and Tools,Material shopping,All Campaigns
+equipment,Supplies and Tools,Equipment purchasing,All Campaigns
+wholesale,Supplies and Tools,Wholesale material searches,All Campaigns
+home depot,Supplies and Tools,Retail store searches,All Campaigns
+lowes,Supplies and Tools,Retail store searches,All Campaigns
+menards,Supplies and Tools,Retail store searches,All Campaigns
+lumber,Supplies and Tools,Material purchasing,All Campaigns
+tile store,Supplies and Tools,Material retail,All Campaigns
+hardware store,Supplies and Tools,Retail hardware,All Campaigns
+craigslist,Platform and Review,Marketplace browsing often budget focused,All Campaigns
+yelp,Platform and Review,Review platform navigation,All Campaigns
+bbb,Platform and Review,Better Business Bureau complaints,All Campaigns
+complaints,Platform and Review,Complaint research,All Campaigns
+lawsuit,Platform and Review,Legal issue research,All Campaigns
+scam,Platform and Review,Fraud research,All Campaigns
+reviews,Platform and Review,Review browsing lower intent,All Campaigns
+ratings,Platform and Review,Rating browsing,All Campaigns
+vs,Platform and Review,Comparison shopping early stage,All Campaigns
+versus,Platform and Review,Comparison shopping,All Campaigns
+compare,Platform and Review,Comparison shopping,All Campaigns
+software,Irrelevant,Remodeling software not services,All Campaigns
+app,Irrelevant,Application searches,All Campaigns
+game,Irrelevant,Gaming searches,All Campaigns
+show,Irrelevant,TV show searches,All Campaigns
+tv,Irrelevant,Television content,All Campaigns
+magazine,Irrelevant,Publication searches,All Campaigns
+book,Irrelevant,Book searches,All Campaigns
+template,Irrelevant,Template downloads,All Campaigns
+calculator,Irrelevant,Calculator tool searches,All Campaigns
+estimate calculator,Irrelevant,DIY estimation tools,All Campaigns
+cost calculator,Irrelevant,DIY cost estimation,All Campaigns
+permit cost,Low Intent,Permit cost research only,Seismic Campaign
+permit requirements,Low Intent,Permit research only,Seismic Campaign
+code requirements,Low Intent,Code research only,Seismic Campaign
+inspection,Low Intent,Inspection only searches,All Campaigns
+used,Low Intent,Used item searches,All Campaigns
+rental,Low Intent,Rental property management,All Campaigns
+rent,Low Intent,Rental searches,All Campaigns
+foreclosure,Low Intent,Foreclosure property searches,Investor Campaign
+auction,Low Intent,Auction property searches,Investor Campaign
+real estate agent,Irrelevant for Investor,Agent searches not contractor,Investor Campaign
+realtor,Irrelevant for Investor,Realtor searches,Investor Campaign
+property management,Irrelevant for Investor,Management not renovation,Investor Campaign
+museum,Irrelevant for Historic,Museum searches,Historic Campaign
+historical society,Irrelevant for Historic,Society membership searches,Historic Campaign
+preservation ordinance,Irrelevant for Historic,Ordinance research only,Historic Campaign
+architecture history,Irrelevant for Historic,Academic history searches,Historic Campaign

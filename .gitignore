@@ -1,0 +1,64 @@
+# Centoni-SEO Project .gitignore
+# Author: Dan Ceresia, The Little Design Group
+# Last Updated: 2025-12-05
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor and IDE Files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Sensitive Files
+# Never commit credentials, API keys, or client-specific sensitive data
+*.env
+.env.*
+credentials.json
+secrets.json
+api_keys.txt
+
+# Google Ads Export Working Files
+# Keep these local during campaign builds
+*.xlsx.tmp
+~$*.xlsx
+~$*.csv
+
+# Client Confidential
+# Any files marked confidential should not be tracked
+*CONFIDENTIAL*
+*confidential*
+
+# Build and Cache
+__pycache__/
+*.pyc
+node_modules/
+.cache/
+
+# Archive Files
+# Large archives should be stored elsewhere
+*.zip
+*.tar.gz
+*.rar
+
+# Notes
+# Personal notes and scratch files
+scratch.*
+notes.txt
+TODO.txt
