@@ -304,3 +304,5 @@ Centoni-SEO/
 **Document Classification:** Internal - The Little Design Group
 **Agency Client:** Websight Design Inc.
 **End Client:** Centoni Design-Build
+**Document Classification:** Internal - For Websight Design
+**Client:** Centoni Design-Build
