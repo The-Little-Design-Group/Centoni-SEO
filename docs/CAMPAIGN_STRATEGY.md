@@ -1,8 +1,10 @@
 # Centoni Campaign Strategy Document
 
-**Client:** Centoni Design-Build
+**Consulting Firm:** The Little Design Group
+**Agency Client:** Websight Design Inc.
+**End Client:** Centoni Design-Build
 **Document Type:** Campaign Architecture and Implementation Guide
-**Author:** Dan Ceresia, CIO/CTO - The Little Design Group
+**Author:** Dan Ceresia, CIO/CTO
 **Last Updated:** 2025-12-05
 
 ---
