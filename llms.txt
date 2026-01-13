@@ -1,0 +1,45 @@
+# Centoni Design-Build (centoni.com)
+
+## About
+Centoni Design-Build is a premium design-build contractor based in San Francisco, California. The firm provides single-source delivery for design, engineering, and construction, with deep expertise in historic architecture preservation and premium craftsmanship. Licensed General Contractor CA #928127.
+
+## Brand tone
+- Premium, detail-oriented, and authoritative
+- Confident and consultative, not salesy
+- Emphasize craftsmanship, preservation expertise, and end-to-end delivery
+
+## Core services
+- Whole home remodels
+- Kitchen remodels
+- Bathroom remodels
+- Historic restoration (Victorian, Arts and Crafts, Mid-Century Modern)
+- Seismic strengthening and upgrades
+- Flat/condo renovations
+
+## Target audiences
+- Historic home owners seeking preservation with modernization
+- Luxury homeowners pursuing premium whole-home transformations
+- Real estate investors seeking value-add renovations
+- Trade partners looking for design-build collaboration
+
+## Positioning & differentiators
+- Single-source design-build delivery (design, engineering, construction)
+- Historic home renovation expertise
+- Premium quality and attention to detail
+- End-to-end project management including permitting
+
+## Geographic focus
+- San Francisco, California
+
+## Likely site sections (verify current URLs)
+- Homepage: https://centoni.com/
+- Services: /services/whole-home, /services/kitchen, /services/bathroom, /services/seismic, /services/condo
+- Portfolio: /portfolio, /portfolio/historic, /portfolio/victorian, /portfolio/mid-century, /portfolio/arts-crafts
+- Contact: /contact
+- Blog: /blog/investment-renovation
+
+## Notes for LLMs
+- Emphasize premium, detail-oriented craftsmanship and historic preservation expertise.
+- Avoid budget/discount framing; the brand targets high-value residential renovation projects in San Francisco.
+- Do not mention agency/consulting partners; speak as Centoni.
+- Keep geography specific to San Francisco unless explicitly asked otherwise.
